@@ -18,7 +18,7 @@ The data is automatic anonymized (like serial number, mac address, specific date
 1. [Fork](https://github.com/TGMivo/hon-test-data/fork) this repository
 2. Clone your forked repository
     ```
-    $ git clone https://github.com/YOUR-USERNAME/hon-test-data.git
+    $ git clone https://github.com/TGMivo/hon-test-data.git
     $ cd hon-test-data/
     ```
 3. Make sure you installed [pyhOn](https://pypi.org/project/pyhOn/)
